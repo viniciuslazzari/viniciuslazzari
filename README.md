@@ -1,10 +1,10 @@
 ## Hello World! <img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/Assets/Earth.gif" width="25px">
 Hi, I'm Vinícius 👋, 17y/o, developer 💻 and high school senior from Brazil
 
-<a href="https://www.linkedin.com/in/viníciuslazzari/"><img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/Assets/linkedin.svg" width="23px" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="mailto:vinilazzari028@gmail.com"><img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/Assets/gmail.svg" width="26px" alt="mail"></a> &nbsp; &nbsp;
-<a href="https://www.facebook.com/vinilazz"><img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/Assets/facebook.svg" width="24px" alt="mail"></a> &nbsp; &nbsp;
-<a href="http://lattes.cnpq.br/1081608737841587"><img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/Assets/lattes.svg" width="19px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/viníciuslazzari/"><img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/Assets/linkedin.svg" width="19" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="mailto:vinilazzari028@gmail.com"><img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/Assets/gmail.svg" width="22x" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://www.facebook.com/vinilazz"><img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/Assets/facebook.svg" width="20" alt="mail"></a> &nbsp; &nbsp;
+<a href="http://lattes.cnpq.br/1081608737841587"><img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/Assets/lattes.svg" width="15x" alt="mail"></a>
 
 ### Technologies 🔥
 - 🧬 Scientific programming using <b>Python</b> and <b>R</b>
