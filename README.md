@@ -1,4 +1,4 @@
-## Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px">
+## Hello World! <img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/Earth.gif" width="25px">
 Hi, I'm Vinícius 👋, 17y/o, developer 💻 and high school senior from Brazil
 
 ### Technologies 🔥
@@ -24,5 +24,5 @@ Hi, I'm Vinícius 👋, 17y/o, developer 💻 and high school senior from Brazil
 
 <br><br><br><br><br><br><br><br><br>
 
-<a href="https://www.linkedin.com/in/viníciuslazzari/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="25px" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="mailto:vinilazzari028@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="28px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/viníciuslazzari/"><img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/linkedin.svg" width="25px" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="mailto:vinilazzari028@gmail.com"><img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/gmail.svg" width="28px" alt="mail"></a> &nbsp; &nbsp;
