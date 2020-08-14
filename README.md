@@ -2,9 +2,9 @@
 Hi, I'm Vinícius 👋, 17y/o, developer 💻 and high school senior from Brazil
 
 ### Technologies 🔥
-- 🧬 Scientific programming with <b>Python</b> and <b>R</b>
+- 🧬 Scientific programming using <b>Python</b> and <b>R</b>
 - 🚀 Web Backend with <b>C#</b> and <b>PHP</b>
-- ⚡️ Web Frontend using <b>React</b>, <b>CSS</b> and <b>HTML</b>
+- ⚡️ <b>React</b>, <b>CSS</b> and <b>HTML</b> for Web Frontend
 
 ### About me 😄
 - 💼 I'm currently a <b>trainee</b> at <b>Cirux Softwares</b>
