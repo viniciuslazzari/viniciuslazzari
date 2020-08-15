@@ -23,6 +23,3 @@ Hi, I'm Vinícius 👋, 17y/o, developer 💻 and high school senior from Brazil
 </a>
 
 <br>
-
-### Github Status 🏆
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=viniciuslazzari&show_icons=true&hide_border=true&count_private=true" />
