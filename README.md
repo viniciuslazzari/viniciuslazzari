@@ -23,3 +23,9 @@ Hi, I'm Vinícius 👋, 17y/o, developer 💻 and high school senior from Brazil
 </a>
 
 <br>
+
+<a href="https://github.com/viniciuslazzari/SoyBugClassification">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=viniciuslazzari&repo=soybugclassification" alt="codestats-profile-readme" />
+</a>
+
+<br>
