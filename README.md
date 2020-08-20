@@ -1,5 +1,5 @@
 ## Hello World! <img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/Assets/Earth.gif" width="25px">
-Hi, I'm Vinícius 👋, 17y/o, developer 💻 and high school senior from Brazil
+Hi, I'm Vinícius 👋, 17y/o, developer 💻 and high school senior from Brazil 
 
 <a href="https://www.linkedin.com/in/viníciuslazzari/"><img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/Assets/linkedin.svg" width="19" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="mailto:vinilazzari028@gmail.com"><img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/Assets/gmail.svg" width="22x" alt="mail"></a> &nbsp; &nbsp;
