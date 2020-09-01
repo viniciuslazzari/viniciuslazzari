@@ -6,7 +6,7 @@ Hi, I'm Vinícius 👋, 18y/o, developer 💻 and high school senior from Brazil
 <a href="https://www.facebook.com/vinilazz"><img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/Assets/facebook.svg" width="20" alt="mail"></a> &nbsp; &nbsp;
 <a href="http://lattes.cnpq.br/1081608737841587"><img src="https://github.com/viniciuslazzari/viniciuslazzari/blob/master/Assets/lattes.svg" width="15x" alt="mail"></a>
 
-### Technologies 🔥
+### Technologies 🔥 
 - 🧬 Scientific programming using <b>Python</b> and <b>R</b>
 - 🚀 Web Backend with <b>C#</b> and <b>PHP</b>
 - ⚡️ <b>React</b>, <b>CSS</b> and <b>HTML</b> for Web Frontend
