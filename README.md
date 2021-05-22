@@ -4,8 +4,8 @@
 
 Hey, my name is **Vinícius**, I'm a **computer science** student who is passionate about solving problems.
 
-- 📚 I’m currently a CS student at IFRS.
-- 💼 I'm currently working at 
+- 📚 I’m currently a CS student at UFSC.
+- 💼 I'm currently working at Metaway
 - 🚀 Web Developer, Data Science and Blockchain enthusiast.
 - 💬 Ask me about anything, I'll be happy to help!
  
