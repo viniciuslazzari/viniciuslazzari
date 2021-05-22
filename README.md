@@ -5,8 +5,8 @@
 Hey, my name is **Vinícius**, I'm a **computer science** student who is passionate about solving problems.
 
 - 📚 I’m currently a CS student at UFSC.
-- 💼 I'm currently working at Metaway
-- 🚀 Web Developer, Data Science and Blockchain enthusiast.
+- 💼 I'm currently working at Metaway.
+- 🚀 Web Developer, Data Science and Digital Design enthusiast.
 - 💬 Ask me about anything, I'll be happy to help!
  
 📫 **Find me on:** [Gmail](mailto:vinilazzari028@gmail.com) or [Linkedin](https://www.linkedin.com/in/vinilazzari)
