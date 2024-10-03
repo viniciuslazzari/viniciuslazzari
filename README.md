@@ -4,9 +4,8 @@
 
 Hey, my name is **Vinícius**, I'm a **computer science** student who is passionate about solving problems.
 
-- 📚 I’m currently a CS student at UFRGS.
-- 💼 I'm currently a software engineer intert at SAP.
-- 🚀 Web Developer, Data Science and Digital Design enthusiast.
+- 📚 I’m currently a CS student at ENSIMAG.
+- 💼 I'm currently looking for an internship.
 - 💬 Ask me about anything, I'll be happy to help!
  
 📫 **Find me on:** [Gmail](mailto:vinilazzari028@gmail.com) or [Linkedin](https://www.linkedin.com/in/vinilazzari)
